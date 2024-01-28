@@ -4,7 +4,7 @@
 
 # Módulo 3: Modelos de datos: Bases de datos
 
-Versión: 14 de enero de 2022
+Versión: 14 de enero de 2024
 
 ## Objetivos
  * Afianzar los conocimientos obtenidos sobre el desarrollo de programas interactivos con Node.js
