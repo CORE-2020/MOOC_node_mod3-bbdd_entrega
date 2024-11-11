@@ -6,8 +6,8 @@
     "info": {
         "githubURL": "ging-moocs/MOOC_node_mod3-bbdd_entrega",
         "serverUrl": "https://moocbot.dit.upm.es/",
-        "courseId": "1601",
-        "assignmentId": "983"
+        "courseId": "138",
+        "assignmentId": "45"
     },
     "scripts": {
         "migrate": "sequelize db:migrate --url sqlite://$(pwd)/db.sqlite",
@@ -24,6 +24,6 @@
         "sequelize": "^6.6.5",
         "sequelize-cli": "^6.2.0",
         "sqlite3": "^5.0.2",
-        "autocorector": "^3.1.3"
+        "autocorector": "^3.5.0"
     }
 }
